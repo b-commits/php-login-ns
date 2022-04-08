@@ -33,7 +33,7 @@ class Database
      * The name of the database schema.
      * @var string
      */
-    private string $db_name = 'accenture_form';
+    private string $db_name = 'db_form';
 
     /**
      * Name of the user for which to make a connection.
